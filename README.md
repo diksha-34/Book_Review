@@ -21,7 +21,7 @@ Review submission form
 1. **Clone the Repository**
 
    ```bash
-   cd book-review-platform/backend
+   cd Book_Review/backend
    npm i
    npm run dev
    cd frontend
